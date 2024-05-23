@@ -29,7 +29,7 @@
     <img src={imageUrl} alt={data.meta.title} class="w-48 rounded-lg" />
   {/await}
 
-  <div>
+  <div class="article">
     <h1>{data.meta.title}</h1>
     <svelte:component this={data.content} />
   </div>

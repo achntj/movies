@@ -38,3 +38,7 @@ img {
   user-drag: none;
   -webkit-user-drag: none;
 }
+
+.article p {
+  @apply mb-2;
+}
