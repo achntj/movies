@@ -14,5 +14,5 @@ connections, and does, infact, find herself.
 
 In my books, this is a 10/10 for the story and the idea behind it all. Cannot
 hate a self-discovery film. I came across this when I asked chat gpt to
-recommend movies like "Zindagi Naa Milegi Dobaara" (a very very very good India
+recommend movies like "Zindagi Naa Milegi Dobaara" (a very very very good Indian
 movie) and this was the answer. Did not disappoint for sure.
